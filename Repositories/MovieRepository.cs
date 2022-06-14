@@ -5,11 +5,12 @@ namespace MovieAPI.Repositories
 {
     public interface IMovieRepository
     {
-        Task<Movie> CreateAsync(Movie model);
+        Task<Movie> CreateAsync(Movie movie);
         Task<Movie> DeleteAsync(int id);
         Task<List<Movie>> GetAllAsync();
         Task<Movie> GetByIdAsync(int id);
-        Task<int> UpdateAsync(int id, Movie model);
+        Task<Movie> GetByTitleAsync(string title);
+        Task<int> UpdateAsync(int id, Movie movie);
     }
 
     public class MovieRepository : IMovieRepository

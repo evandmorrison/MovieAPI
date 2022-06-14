@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fYSdSFNSkvXEg1UwjynOAWGjHSc8JurfGbBKRCUxSz9H+KJ0O1MSHMvKbhsLP/WIMwo0xhOVIR/cRvEMSZIoaA==",
+  "dgSpecHash": "anZ2h/JFMWtDjpVSsW8a0tlpK+2WR0slumZH7/AlEIm9HezGUGhr3qMvBh0xx8O0yRWAB24y26hZiUfayMPBiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj",
+  "projectFilePath": "c:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Evan\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

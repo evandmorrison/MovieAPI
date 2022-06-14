@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj": {}
+    "c:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj": {
+    "c:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj",
+        "projectUniqueName": "c:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj",
         "projectName": "MovieAPI",
-        "projectPath": "C:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj",
+        "projectPath": "c:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\MovieAPI.csproj",
         "packagesPath": "C:\\Users\\Evan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\obj\\",
+        "outputPath": "c:\\Users\\Evan\\Documents\\Ensemble\\MovieAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Evan\\AppData\\Roaming\\NuGet\\NuGet.Config"
